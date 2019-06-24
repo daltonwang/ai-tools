@@ -10,4 +10,4 @@ tool kits for ai research
 - [WIKI抽取工具  https://github.com/attardi/wikiextractor]
 
 ### Nvidia 
-- [https://docs.nvidia.com/jetson/index.html]
+- [Nvidia 文档库 https://docs.nvidia.com/jetson/index.html]
