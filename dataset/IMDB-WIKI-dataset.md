@@ -23,36 +23,36 @@ For both the IMDb and Wikipedia images we provide a separate .mat file which can
 
 ##### 3. Data Set
 ###### 3.1 IMDB images and metadata
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_0.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_1.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_2.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_3.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_4.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_5.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_6.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_7.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_8.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_9.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_meta.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_0.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_1.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_2.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_3.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_4.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_5.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_6.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_7.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_8.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_9.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_meta.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/imdb_crop.tar
 
 ###### 3.2 WIKI Data Set
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki.tar.gz
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/extractSubImage.m
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki.tar.gz
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/wiki_crop.tar
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/extractSubImage.m
 
 ##### 4. Model
 ##### 4.1 Real age estimation trained on IMDB-WIKI
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/dex_imdb_wiki.caffemodel
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age.prototxt
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age_train.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/dex_imdb_wiki.caffemodel
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age_train.prototxt
 
 ##### 4.2 Apparent age estimation trained on LAP dataset
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/dex_chalearn_iccv2015.caffemodel
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age.prototxt
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age_train.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/dex_chalearn_iccv2015.caffemodel
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/age_train.prototxt
 
 ##### 4.3 Gender prediction
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender.caffemodel
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender.prototxt
-https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender_train.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender.caffemodel
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender.prototxt
+- https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender_train.prototxt
